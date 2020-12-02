@@ -1,0 +1,14 @@
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\bin\Debug\netstandard2.0\Service.deps.json
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\bin\Debug\netstandard2.0\Service.dll
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\bin\Debug\netstandard2.0\Service.pdb
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\obj\Debug\netstandard2.0\Service.dll
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\obj\Debug\netstandard2.0\Service.pdb
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\bin\Debug\netstandard2.0\Data.dll
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\bin\Debug\netstandard2.0\Library.dll
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\bin\Debug\netstandard2.0\Library.pdb
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\bin\Debug\netstandard2.0\Data.pdb
+E:\Projetos\Pessoal\SiteMercadoBack\SiteMercado\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
