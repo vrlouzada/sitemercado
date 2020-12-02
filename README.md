@@ -3,11 +3,11 @@ Projeto de apresentação para processo seletivo
 
 Este projeto está dividido em 3 partes e cada parte está em uma pasta:
 
-#Front
+# Front
 Projeto de font-end feito em Angular 11 e Bootstrap 4.
 
-#Back
+# Back
 Projeto Web Api .Net feito em NetCore 3.1
 
-#Script
+# Script
 Script para criação das tabelas SQL Server
