@@ -1131,11 +1131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\SiteMercado.csproj",
+      "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\SiteMercado.csproj",
       "projectName": "SiteMercado",
-      "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\SiteMercado.csproj",
+      "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\SiteMercado.csproj",
       "packagesPath": "C:\\Users\\vrlou\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\obj\\",
+      "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vrlou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1152,11 +1152,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj": {
-              "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj"
+            "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj": {
+              "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj"
             },
-            "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\Service.csproj": {
-              "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\Service.csproj"
+            "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\Service.csproj": {
+              "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\Service.csproj"
             }
           }
         }

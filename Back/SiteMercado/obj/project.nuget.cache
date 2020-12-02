@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rnYGSCcDnH0dSIvkuo2/25Mx+8KSrjr0nBK2JWls2r51GxH674zD4znme9+sdIdSqbAs9yARoY4XyxdTQRtpYA==",
+  "dgSpecHash": "mHVmgv/xXY3bBhAVQKRUw6Hc4cxT0GLNUQ1WUmXLz5bMs/Vra1MS+Y45f6tGueeoTuOvksFgo58qJLMzH+l37g==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\SiteMercado.csproj",
+  "projectFilePath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\SiteMercado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vrlou\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\vrlou\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

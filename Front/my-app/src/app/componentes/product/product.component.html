@@ -1,0 +1,68 @@
+<div class="row">
+    <div class="col-sm-12">
+        <h1>Listagem de produtos</h1>
+    </div>
+</div>
+
+<div class="row" style="margin-bottom: 25px;">
+    <div class="col-sm-12">
+        <a href="javascript:void(0)" class="btn btn-info" (click)="openModal(content, product)" >Cadastrar</a>
+    </div>
+</div>
+
+<div class="row" >
+    <div class="col-sm-3" *ngFor="let item of products" >
+        <div class="row col-sm-12">
+            <div class="card" style="width: 18rem;" >
+                <img *ngIf="item.imagem.image" height="150" src="{{item.imagem.image}}" class="card-img-top" alt="{{item.imagem.name}}">
+                <img *ngIf="!item.imagem.image" height="150" src="../../../assets/img/no-image.jpg" class="card-img-top" alt="{{item.imagem.name}}">
+                <div class="card-body">
+                  <h5 class="card-title">{{item.name}}</h5>
+                  <p class="card-text">Preço: {{item.price}}</p>     
+                </div>
+                <div class="card-body">
+                    <a href="javascript:void(0)" (click)="openModal(content,item)" class="card-link">Atualizar</a>
+                    <a href="javascript:void(0)" (click)="remove(item)" class="card-link">Remover</a>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
+<ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">Produto</h4>
+      <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <form>
+        <div class="form-group">
+          <label for="updateName">Nome</label>
+          <div class="input-group">
+            <input id="updateName" type="text" class="form-control" [(ngModel)]="product.name" placeholder="Nome" name="Nome" >            
+          </div>
+        </div>
+        <div class="form-group">
+            <label for="updatePrice">Preço</label>
+            <div class="input-group">
+              <input id="updatePrice" class="form-control" [(ngModel)]="product.price" placeholder="Preço" name="Preço" >            
+            </div>
+          </div>
+
+        <div class="form-group" *ngIf="product.id !== 0">
+        <label for="updatePrice">Imagem</label>
+        <div class="input-group">
+            <input type="file" (change)="onFileChanged($event, product.id)">              
+        </div>
+        </div>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <button *ngIf="product.id === 0" type="button" class="btn btn-outline-dark" (click)="modal.close(this.actions.save)">Save</button>
+      <button *ngIf="product.id !== 0" type="button" class="btn btn-outline-dark" (click)="modal.close(this.actions.update)">Update</button>
+    </div>
+</ng-template>
+
+

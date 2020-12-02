@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\SiteMercado.csproj": {}
+    "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\SiteMercado.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj": {
+    "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj",
+        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj",
+        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\vrlou\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\obj\\",
+        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vrlou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Repository\\Data.csproj": {
+    "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Repository\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Repository\\Data.csproj",
+        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Repository\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Repository\\Data.csproj",
+        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Repository\\Data.csproj",
         "packagesPath": "C:\\Users\\vrlou\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Repository\\obj\\",
+        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vrlou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj": {
-                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj"
+              "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj": {
+                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\Service.csproj": {
+    "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\Service.csproj",
+        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\Service.csproj",
+        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\vrlou\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\obj\\",
+        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vrlou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,11 +174,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj": {
-                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj"
+              "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj": {
+                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj"
               },
-              "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Repository\\Data.csproj": {
-                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Repository\\Data.csproj"
+              "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Repository\\Data.csproj": {
+                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Repository\\Data.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\SiteMercado.csproj": {
+    "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\SiteMercado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\SiteMercado.csproj",
+        "projectUniqueName": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\SiteMercado.csproj",
         "projectName": "SiteMercado",
-        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\SiteMercado.csproj",
+        "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\SiteMercado.csproj",
         "packagesPath": "C:\\Users\\vrlou\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\SiteMercado\\obj\\",
+        "outputPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\SiteMercado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vrlou\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,11 +238,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj": {
-                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Library\\Library.csproj"
+              "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj": {
+                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Library\\Library.csproj"
               },
-              "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\Service.csproj": {
-                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoBack\\SiteMercado\\Service\\Service.csproj"
+              "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\Service.csproj": {
+                "projectPath": "E:\\Projetos\\Pessoal\\SiteMercadoGit\\Back\\Service\\Service.csproj"
               }
             }
           }
