@@ -35,8 +35,13 @@ export class AuthComponent implements OnInit {
     .subscribe    
     (
       data =>{
-        console.log('Response Login', data);
-        this.router.navigate(['/produtos']);
+        if(data.success){
+          alert('login com sucesso');
+         this.router.navigate(['/produtos']);
+        }else{
+          alert(data.error);
+        }
+        
       }, 
       error =>{
         console.error('Erro Login', error)

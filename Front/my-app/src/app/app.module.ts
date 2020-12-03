@@ -8,6 +8,7 @@ import { AuthComponent } from './componentes/auth/auth.component';
 import { AppRoutingModule } from './app-routing/app-routing.module';
 import { ProductComponent } from './componentes/product/product.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { ErrorInterceptor } from './helper/error.interceptor';
 
 
 
@@ -25,7 +26,9 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AppRoutingModule,
     NgbModule
   ],
-  providers: [ {provide: HTTP_INTERCEPTORS, useClass: BasicAuthInterceptor, multi: true}],
+  providers: [ {provide: HTTP_INTERCEPTORS, useClass: BasicAuthInterceptor, multi: true},
+               {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true }],
+  
   bootstrap: [AppComponent]
 })
 export class AppModule { }
