@@ -3,3 +3,8 @@
 ################################################################################
 
 /Back/.vs/SiteMercado
+/Back/Library/obj
+/Back/MyTests/obj
+/Back/Repository/obj
+/Back/Service/obj
+/Back/SiteMercado/obj
