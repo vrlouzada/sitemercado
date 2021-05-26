@@ -1,5 +1,5 @@
 # Site Mercado
-Projeto de apresentação para processo seletivo
+Projeto de portfólio
 
 Este projeto está dividido em 3 partes e cada parte está em uma pasta:
 
